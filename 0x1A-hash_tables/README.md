@@ -1,1 +1,0 @@
-A. C - Hash tables
